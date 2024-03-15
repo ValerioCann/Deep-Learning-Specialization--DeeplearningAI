@@ -1,5 +1,6 @@
 # Deep-Learning-Specialization--DeeplearningAI
-![deeplearning-ai-logo](https://github.com/ValerioCann/Deep-Learning-Specialization--DeeplearningAI/assets/136093296/5c0fc0d5-8587-4e90-bc01-78eb800a893f)
+
+ <p align="center"><img src="https://github.com/ValerioCann/Deep-Learning-Specialization--DeeplearningAI/assets/136093296/5c0fc0d5-8587-4e90-bc01-78eb800a893f.png" /></p>
 
 The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
 
