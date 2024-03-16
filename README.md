@@ -9,5 +9,6 @@ In this Specialization, you will build and train neural network architectures su
 AI is transforming many industries. The Deep Learning Specialization provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career. Along the way, you will also get career advice from deep learning experts from industry and academia.
 
 ## Certificate
-![image](https://github.com/ValerioCann/Deep-Learning-Specialization--DeeplearningAI/assets/136093296/9b7456fd-8939-4746-ae58-88b579ddbb5a)
+
+<p align="center"><img src="https://github.com/ValerioCann/Deep-Learning-Specialization--DeeplearningAI/assets/136093296/b3655573-260d-410f-9644-31914c7edfdf" /></p>
 
